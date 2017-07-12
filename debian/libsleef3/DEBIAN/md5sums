@@ -1,0 +1,7 @@
+37694ad8169969c4a2e3ce2f132d00f5  usr/include/sleef.h
+ec1c6ba2648b14a3623ccfeadf5c1372  usr/include/sleefdft.h
+0917a64ad65a300d073c381cf049ad61  usr/lib/libsleef.so.3.1
+b681a87753bd886dbcaf825ec2ed5cb1  usr/lib/libsleefdft.so.3.1
+f3df654d747c41fef2affa0083e3fe28  usr/lib/libsleefgnuabi.so.3.1
+99ed2cd25fd15200fd8220c63f40fd28  usr/share/doc/libsleef3/changelog.Debian.gz
+362ecc55a7364d45e7a01f05e6d98b3d  usr/share/doc/libsleef3/copyright
